@@ -3,7 +3,7 @@
 
 <head>
 	<div align="center">
-		Welcome to Jiwon's Github👋
+		<h3>Welcome to Jiwon's Github👋</h3>
 	</div>
 	<div gif>
 		<p align="center">
