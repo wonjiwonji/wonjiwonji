@@ -2,10 +2,11 @@
 <html>
 
 <head>
+	<div align = "center">
+	<h3>Welcome to Jiwon's Github👋🏻</h3>
 	
-	<div gif>
 		<p align="center">
-  			<h3>Welcome to Jiwon's Github👋🏻</h3>
+  			
 			<img src="https://github.com/wonjiwonji/wonjiwonji/assets/122261115/9592addb-9039-4f83-80e3-0a766ec8e57a"
 				style="width:400px"></img>
 		</p>
