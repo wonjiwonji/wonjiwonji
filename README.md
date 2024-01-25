@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div gif>
-  dd
+  ![jiwon_git](https://github.com/wonjiwonji/wonjiwonji/assets/122261115/52617df5-0c3f-4ca1-a4a6-852be072336a)
 </div>
 
 <div stack>
