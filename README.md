@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div gif>
+  <img src="![jiwon_git-ezgif com-video-to-gif-converter](https://github.com/wonjiwonji/wonjiwonji/assets/122261115/9592addb-9039-4f83-80e3-0a766ec8e57a)" style = "width:200px"></img>
+  <img src="https://github.com/wonjiwonji/wonjiwonji/assets/122261115/9592addb-9039-4f83-80e3-0a766ec8e57a" style = "width:200px"></img>
 
-https://github.com/wonjiwonji/wonjiwonji/assets/122261115/b572be15-39ea-44bb-b37f-71571ea033bb
 
 
 </div>
