@@ -6,7 +6,7 @@
 	<div gif>
 		<p align="center">
 			<img src="https://github.com/wonjiwonji/wonjiwonji/assets/122261115/9592addb-9039-4f83-80e3-0a766ec8e57a"
-				style="width:200px"></img>
+				style="width:400px"></img>
 		</p>
 	</div>
 </head>
