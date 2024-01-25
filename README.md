@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div gif>
-  ![jiwon_git](https://github.com/wonjiwonji/wonjiwonji/assets/122261115/52617df5-0c3f-4ca1-a4a6-852be072336a)
+![jiwon_git-ezgif com-video-to-gif-converter](https://github.com/wonjiwonji/wonjiwonji/assets/122261115/6e2a6910-ad9c-4a3c-86b1-59eee922abe7)
 </div>
 
 <div stack>
